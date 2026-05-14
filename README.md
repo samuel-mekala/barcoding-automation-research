@@ -20,6 +20,22 @@ Using a **quantitative survey methodology** (n=250 pharmaceutical industry profe
 
 ---
 
+## 📊 SEM Path Diagram
+ 
+![SEM Path Diagram](images/sem_path_diagram.png)
+ 
+---
+## 🔬 Key Findings
+ 
+| Path | β | C.R. | p-value | Result |
+|---|---|---|---|---|
+| OPP ← Barcoding | **0.542** | 8.161 | 0.000 | ✅ Significant |
+| OPP ← Automation | **0.779** | 9.897 | 0.000 | ✅ Significant |
+ 
+**Both H01 and H02 rejected** — barcoding and automation both significantly improve operational performance.
+ 
+---
+
 ## 🔬 Research Design
 
 | Component | Details |
@@ -32,13 +48,6 @@ Using a **quantitative survey methodology** (n=250 pharmaceutical industry profe
 | **Domain** | Pharmaceutical industry |
 
 ---
-
-## 📊 Key Findings
-
-### Hypotheses Tested
-
-**H01:** Barcoding has no positive impact on operational performance  
-**H02:** Automation has no positive impact on operational performance
 
 ### Results
 
@@ -115,7 +124,7 @@ Research Gap Identified
 
 ---
 
-📎 <a href="https://doi.org/10.1007/978-981-99-2832-3_70" target="_blank">Full Paper on Springer →</a>
+📎 <a href="https://doi.org/10.1007/978-981-99-2832-3_70" target="_blank"> Read Full Paper on Springer →</a>
 
 ---
 
